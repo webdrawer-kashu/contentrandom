@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+* {
+margin: 0;
+padding: 0;
+color: #000;
+font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+}
+
+img {
+vertical-align: bottom;
+}
+
+.contentBox {
+margin: 20px;
+overflow: hidden;
+}
+
+.contentBox li {
+margin: 10px;
+width: 250px;
+float: left;
+border: 1px solid #eeeeee;
+list-style-type: none;
+}
+
+.contentBox h2 {
+margin: 15px;
+color: #c02020;
+font-size: 14px;
+}
+
+.contentBox p {
+margin: 15px;
+}
+
+.att {
+margin: 20px;
+}
